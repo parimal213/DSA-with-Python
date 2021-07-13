@@ -1,0 +1,6 @@
+1.In case of linked list searching is comparatively slow , O(N) complexity . but insertion,deletion is fast.
+
+2.binary search trees make all the operations(insert,remove,search) quite fast, with O(log N) time comlexity.
+and the complexity is predictable.
+
+3.If the tree is unbalanced the h = log N relation is no more valid and the operation's running time is no more logarithmic.
